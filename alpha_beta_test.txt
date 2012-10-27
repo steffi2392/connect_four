@@ -1,0 +1,128 @@
+This is an example of a game played between two SmartAIPlayers using alpha-beta pruning with 10 seconds to search.  Player 1 won this game, and it appeared to be played pretty much as perfectly as it could have played.  (I've played against SmartAIPlayer with alpha beta pruning and have yet to beat it - of course this doesn't prove that it's playing perfectly, but in 4th grade I won my grade's Connect Four tournament, so I'll take this to mean SmartAIPlayer is pretty good.)  A good bit more states are visited at each depth than the search without alpha-beta pruning; in general it allows for about 1 additional level of the tree to be explored each time.
+
+Player 1, go!
+  Time's up, player  1
+25464 states visited
+move taken from depth 4
+value of move: 7
+Player 2, go!
+  Time's up, player  2
+29754 states visited
+move taken from depth 4
+value of move: -2
+Player 1, go!
+  Time's up, player  1
+21546 states visited
+move taken from depth 4
+value of move: 18
+Player 2, go!
+  Time's up, player  2
+26896 states visited
+move taken from depth 4
+value of move: -8
+Player 1, go!
+  Time's up, player  1
+27241 states visited
+move taken from depth 4
+value of move: 17
+Player 2, go!
+  Time's up, player  2
+25321 states visited
+move taken from depth 4
+value of move: 17
+Player 1, go!
+  Time's up, player  1
+29523 states visited
+move taken from depth 4
+value of move: 35
+Player 2, go!
+  Time's up, player  2
+37215 states visited
+move taken from depth 4
+value of move: -23
+Player 1, go!
+  Time's up, player  1
+26254 states visited
+move taken from depth 4
+value of move: 66
+Player 2, go!
+  Time's up, player  2
+22178 states visited
+move taken from depth 4
+value of move: 25
+Player 1, go!
+  Time's up, player  1
+39467 states visited
+move taken from depth 4
+value of move: -4
+Player 2, go!
+  Time's up, player  2
+30273 states visited
+move taken from depth 4
+value of move: 10
+Player 1, go!
+  Time's up, player  1
+37511 states visited
+move taken from depth 4
+value of move: 104
+Player 2, go!
+  Time's up, player  2
+34360 states visited
+move taken from depth 5
+value of move: 2
+Player 1, go!
+  Time's up, player  1
+45041 states visited
+move taken from depth 5
+value of move: 110
+Player 2, go!
+  Time's up, player  2
+23666 states visited
+move taken from depth 5
+value of move: -109
+Player 1, go!
+  Time's up, player  1
+24113 states visited
+move taken from depth 5
+value of move: 201
+Player 2, go!
+  Time's up, player  2
+30923 states visited
+move taken from depth 6
+value of move: -190
+Player 1, go!
+  Time's up, player  1
+38159 states visited
+move taken from depth 6
+value of move: 371
+Player 2, go!
+  Time's up, player  2
+30239 states visited
+move taken from depth 12
+value of move: -280
+Player 1, go!
+  Time's up, player  1
+10266 states visited
+move taken from depth 27
+value of move: 371
+Player 2, go!
+  Time's up, player  2
+222 states visited
+move taken from depth 1070
+value of move: -360
+Player 1, go!
+  Time's up, player  1
+211 states visited
+move taken from depth 1129
+value of move: 362
+Player 2, go!
+  Time's up, player  2
+10 states visited
+move taken from depth 17696
+value of move: -150
+Player 1, go!
+  Time's up, player  1
+9 states visited
+move taken from depth 23264
+value of move: 9223372036854775807
+Player 1 wins!
